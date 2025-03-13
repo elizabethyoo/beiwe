@@ -20,25 +20,34 @@ time_end = "2017-01-02"
 task_id = int(sys.argv[1])
 print("task_id: " + str(task_id))
 METADATA_TB_PATH = os.path.join(direc, "trial_phase2_download_participants.csv")
+print(METADATA_TB_PATH)
+
+#==================             ========================
+
 user_params = pd.read_csv(METADATA_TB_PATH) # this is the file that contains the user parameters
 row = user_params.iloc[task_id]
+print(row)
 # row = user_params[user_params['index'] == task_id]
 
 # study_id = row['study id'].values[0]
 # direc = os.getcwd() #current working directory, 
 # dest_folder_name = "raw_data"
 # server = "studies"
-# time_start = row['first_valid_date'].values[0]
-# time_end = row['day_182'].values[0]
-# cluster = row['cluster_label'].values[0]
+
+time_start = row['First Registration Date'].split(" ")[0]
+print(time_start)
+time_end = None
+
+# cluster = row['cluster_label'] -- might be useful if using pooled studies data
+
 # data_streams = ["gps", "survey_timings", "survey_answers", "audio_recordings", "calls", "texts", "accelerometer"]
 # test gps for now -- change to include all passive features
 data_streams = ["gps"] #, "survey_timings", "survey_answers", "audio_recordings", "calls", "texts", "accelerometer"]
 
-beiwe_ids = [row['Patient ID'][0]]
+beiwe_ids = row['Patient ID']
+print("beiwe_ids: " + str(beiwe_ids))
 
 # if dest_dir doesn't exist, create it
-
 dest_dir = os.path.join(direc, dest_folder_name)
 print("destination directory: " + dest_dir)
 
@@ -56,6 +65,7 @@ kr = mano.keyring(None)
 
 from helper_functions import download_data
 
-if pd.notna(cluster):
-   download_data(kr, study_id, dest_dir, beiwe_ids, time_start, time_end, data_streams)
+download_data(kr, study_id, dest_dir, beiwe_ids, time_start, time_end, data_streams)
+
+print("download complete for task_id: " + str(task_id))
 
