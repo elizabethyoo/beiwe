@@ -1,0 +1,86 @@
+,ID,Gender,Age,Height (cm),Weight (kg),BMI,Health status (Type of cancer / Stage / Performance status),base_disease_site,Unnamed: 8,Unnamed: 9,Unnamed: 10,OS,Beiwe ID
+0,1001,Female,64,162.6,79.4,30.0,Ovarian,White,,,,Android,jy8yzsap
+1,1002,Female,70,154.9,67.3,28.05,Ovarian,Other (specify),,1.0,,iOS,md7fnll7
+2,1003,Female,56,165.4,62.5,22.85,Ovarian,Black or African American,,1.0,,iOS,wrb5oh7u
+3,1004,Female,56,160.0,54.5,21.29,Cervical,White,,2.0,,iOS,wgs5rptp
+4,1005,Female,57,157.5,68.5,27.61,Ovarian,Black or African American,,1.0,,iOS,q21jny47
+5,1006,Female,59,170.2,99.4,34.31,Ovarian,White,,1.0,,Android,52td8unr
+6,1007,Female,72,159.3,80.5,31.72,Ovarian,White,,1.0,,Android,67zqexic
+7,1008,Female,35,162.6,91.1,34.46,Ovarian,White,,1.0,,iOS,piiua4us
+8,1009,Female,55,152.4,63.7,27.43,Vulvar,Refused,,3.0,,iOS,4458ann3
+9,1010,Female,74,154.9,76.2,31.76,Ovarian,White,,1.0,,iOS,7h42nxij
+10,2001,Female,50,165.0,65.4,24.02,Ovarian,White,,1.0,,iOS,s18ydzme
+11,2002,Female,61,154.0,55.0,23.2,Ovarian,White,,,,iOS,em2heqoc
+12,2003,Female,52,166.3,57.4,20.8,Ovarian,White,,,,Android,boai4zds
+13,2004,Female,68,171.5,81.5,27.71,Ovarian,Black or African American,,1.0,,iOS,qrb9cncj
+14,2005,Female,60,162.6,58.1,21.98,Ovarian,White,,1.0,,Android,1s5wlcm6
+15,2006,Female,51,158.6,61.7,24.5,Ovarian,White,,,,iOS,aj6hu6x
+16,2007,Female,38,167.8,62.1,22.1,Ovarian,Asian,,,,iOS,nzvk7jwo
+17,2008,Female,58,154.0,51.0,21.5,Ovarian,White,,1.0,,iOS,behdfa31
+18,2009,Female,73,169.0,69.3,24.26,Ovarian,White,,1.0,,iOS,bhjfpzgc
+19,2010,Female,53,162.6,75.9,28.7,Ovarian,White,,,,iOS,igfq43wg
+20,2011,Female,68,159.5,74.2,29.17,Cervical,White,,2.0,,iOS,j3ba35d2
+21,2012,Female,49,160.0,85.8,33.5,Ovarian,White,,,,iOS,h599npeu
+22,2013,Female,63,165.0,72.0,26.4,Ovarian,White,,,,Android,xcdydxji
+23,2014,Female,59,160.0,60.6,23.67,Ovarian,White,,1.0,,iOS,2n18iikg
+24,2015,Female,63,159.9,70.7,27.65,Ovarian,White,,1.0,,Android,cpjgpdpc
+25,2016,Female,60,162.6,51.8,19.6,Ovarian,White,,,,iOS,sgjviesj
+26,2017,Female,57,154.9,69.7,29.0,Ovarian,American Indian or Alaska Native,,,,iOS,4kp3bpt3
+27,2018,Female,79,149.9,47.5,21.14,Ovarian,White,,1.0,,iOS,4zqq46uj
+28,2020,Female,34,167.6,52.0,18.51,Cervical,White,,2.0,,iOS,srpx1ilr
+29,2022,Female,49,182.4,93.4,28.1,Ovarian,White,,,,iOS,d3o6kuvf
+30,2023,Female,55,162.0,76.4,29.11,Cervical,Black or African American,,2.0,,iOS,nnu1qurv
+31,2024,Female,51,165.1,60.2,22.09,Ovarian,White,,1.0,,iOS,btjka62m
+32,2025,Female,55,156.6,53.5,21.82,Cervical,White,,2.0,,iOS,7ijvywnb
+33,2026,Female,61,166.7,70.4,25.3,Cervical,White,,,,iOS,ua1djdlg
+34,2027,Female,54,162.3,76.3,29.2,Ovarian,White,,,,iOS,dglk2mak
+35,2028,Female,64,163.9,51.5,19.17,Ovarian,White,,1.0,,iOS,ud1ic49g
+36,2029,Female,59,170.4,98.6,34.0,Uterine,White,,,,iOS,unlkfxnc
+37,2031,Female,49,148.0,63.5,28.99,Uterine,Asian,,4.0,,iOS,sg5x9we2
+38,2032,Female,69,158.0,72.1,28.88,Ovarian,White,,1.0,,Android,i5b2fdez
+39,2033,Female,56,167.6,53.6,19.08,Ovarian,White,,1.0,,Android,3j2fdbb
+40,2034,Female,74,159.8,69.9,27.37,Uterine,White,,4.0,,iOS,jg55qc21
+41,2035,Female,60,159.5,83.4,32.8,Ovarian,White,,,,iOS,4s7o5pps
+42,2036,Female,69,159.0,86.0,33.8,Ovarian,White,,,,iOS,9r91qo8x
+43,2037,Female,75,162.1,72.2,27.8,Ovarian,White,,,,iOS,kzt9osem
+44,2038,Female,71,167.0,60.1,21.55,Ovarian,White,,1.0,,iOS,asj59ze4
+45,2039,Female,24,162.6,67.9,25.68,Ovarian,White,,1.0,,iOS,akka6vtq
+46,2040,Female,61,156.5,71.5,29.2,Ovarian,White,,,,iOS,o912nw3y
+47,2041,Female,78,160.0,72.8,28.44,Uterine,White,,4.0,,Android,aej6wxh8
+48,2042,Female,53,149.9,80.5,32.5,Uterine,Black or African American,,,,iOS,vby6fos4
+49,2043,Female,75,148.1,55.7,25.39,Ovarian,White,,1.0,,iOS,fxh8kqh4
+50,2044,Female,53,170.2,100.0,34.5,Ovarian,White,,,,iOS,j8soi1xe
+51,2045,Female,73,156.2,118.9,48.7,Uterine,Black or African American,,,,iOS,o3ze4d97
+52,2046,Female,53,157.5,61.8,24.91,Ovarian,White,,1.0,,iOS,8lpaia8q
+53,2047,Female,70,159.3,82.4,32.5,Ovarian,White,,,,Android,uiwlw4n5
+54,2048,Female,69,160.1,65.7,25.6,Ovarian,White,,,,iOS,ujg255xj
+55,2049,Female,73,165.1,82.6,30.3,Ovarian,White,,,,iOS,lglv5j7s
+56,2050,Female,76,164.5,102.0,37.7,Ovarian,White,,,,iOS,hfnit4ev
+57,2051,Female,63,155.0,56.3,23.43,Ovarian,Asian,,1.0,,iOS,see4r8y6
+58,2053,Female,71,171.0,78.9,26.98,Ovarian,White,,1.0,,iOS,8lqhw9ep
+59,2054,Female,71,154.9,70.1,29.22,Uterine,White,,4.0,,Android,t9xq7k8b
+60,2057,Female,65,146.0,74.2,34.8,Ovarian,Asian,,,,Android,5iv5o89o
+61,2058,Female,67,157.2,57.6,23.5,Ovarian,White,,,,Android,83i73qyl
+62,2059,Female,75,167.5,77.0,27.4,Ovarian,White,,,,iOS,4fyd1ssv
+63,2060,Female,65,154.9,74.8,31.17,Ovarian,White,,1.0,,iOS,k93dkv8w
+64,2061,Female,75,159.8,103.3,40.5,Uterine,Other (specify),,,,iOS,h4yepx8s
+65,2062,Female,69,170.2,65.2,22.51,Ovarian,White,,1.0,,iOS,fc2k5drf
+66,2063,Female,59,159.5,66.6,26.18,Ovarian,White,,1.0,,Android,rmtdpger
+67,2064,Female,68,165.6,62.5,22.8,Ovarian,White,,,,Android,mk9ee8p4
+68,2065,Female,59,158.1,93.2,37.29,Ovarian,White,,1.0,,iOS,56l6mrgc
+69,2067,Female,54,162.5,117.6,44.7,Vaginal,Black or African American,,,,iOS,1rkt87d2
+70,2068,Female,49,158.5,107.0,42.59,Ovarian,White,,1.0,,Android,8r4hkqi6
+71,2069,Female,63,165.1,76.1,27.9,Uterine,White,,,,iOS,4aczi869
+72,2070,Female,67,154.7,66.5,27.8,Uterine,White,,,,Android,ychlwvnz
+73,2071,Female,56,156.4,75.3,30.8,Ovarian,Other (specify),,,,iOS,ukexs41t
+74,2074,Female,62,152.6,118.7,51.0,Ovarian,White,,,,Android,76rm9dnl
+75,2075,Female,61,154.9,68.5,28.5,Ovarian,Other (specify),,,,Android,ige4zl6o
+76,2076,Female,63,161.1,106.7,40.7,Ovarian,Don't know,,1.0,,iOS,x8wr4182
+77,2077,Female,76,155.8,66.2,27.27,Uterine,White,,4.0,,iOS,qkcrsaa9
+78,2079,Female,74,161.0,79.1,30.52,Ovarian,White,,1.0,,iOS,i9fqxgwn
+79,2080,Female,58,149.0,79.1,35.6,Ovarian,White,,,,iOS,kkxkaagr
+80,2081,Female,66,150.3,51.3,22.71,Ovarian,White,,1.0,,iOS,pwby6ex2
+81,2083,Female,66,162.6,106.5,40.3,Ovarian,White,,,,iOS,6ogn9wsa
+82,2085,Female,68,154.2,60.4,25.4,Ovarian,White,,1.0,,iOS,3tg2dbdl
+83,2087,Female,58,156.0,62.6,25.7,Uterine,White,,,,iOS,n7g4xhkg
+84,2088,Female,69,160.0,66.5,26.0,Vaginal,White,,,,iOS,93ubkqfi

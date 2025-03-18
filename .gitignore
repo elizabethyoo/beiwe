@@ -1,0 +1,5 @@
+# slurm outputs
+*.err
+*.out 
+# everything in the data directory
+data/*

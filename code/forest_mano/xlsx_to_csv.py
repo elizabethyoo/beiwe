@@ -1,7 +1,14 @@
+import socket
 import sys
 print(sys.executable)
+hostname = socket.gethostname()
+print(hostname)
+
+
 import pandas as pd
 import os
+
+
 
 print("test")
 dirname = os.path.dirname(__file__)
