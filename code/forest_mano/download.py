@@ -7,6 +7,11 @@ HOPE_STUDY_IDS = ['598365d5388cd66a62ac1f9e', '5a2ae1dc03d3c425ef0ea752', '58822
                   '5a79f17d03d3c45080924ed4', '59c2b5b4388cd6715a958247', '5h7D9XT2vrN3BWkdcbYVNtpI']
 study_id = HOPE_STUDY_IDS[0]  # test on one part of the study
 
+## TODO merge all download_participant metadata with HOPE_2_study_demographics data
+## name it demographics_info = "../data/HOPE_paper2_demographics_w_beiwe_metadata.csv"
+## 2025-03-24 TODO import variables from demographics_info in configs
+
+
 # Get the absolute path of the script directory
 script_dir = os.path.dirname(os.path.abspath(__file__))
 direc = os.path.abspath(os.path.join(script_dir, "../../data/"))  # set to the desired directory

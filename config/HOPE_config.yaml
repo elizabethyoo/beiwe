@@ -1,0 +1,8 @@
+study_ids = ["598365d5388cd66a62ac1f9e", "5a2ae1dc03d3c425ef0ea752", "588224eff4d48a76f488cdfd",
+                  "5a79f17d03d3c45080924ed4", "59c2b5b4388cd6715a958247", "5h7D9XT2vrN3BWkdcbYVNtpI"]
+data_dir = "../data/"
+raw_data_dir = "../data/raw"
+processed_data_dir ="../data/processed/"
+demographics_info = "../data/HOPE_paper2_demographics_w_beiwe_metadata.csv"
+results_dir = "../results/"
+figures_dir = "../figs/"
