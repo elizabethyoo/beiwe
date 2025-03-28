@@ -1,0 +1,19 @@
+---
+# dictionary of study names to ids
+study_name_to_id:
+  test: "59c2b5b4388cd6715a958247"
+  test2: "5h7D9XT2vrN3BWkdcbYVNtpI"
+  trial: "588224eff4d48a76f488cdfd"
+  trial_phase2: "598365d5388cd66a62ac1f9e"
+  trial_phase2_passive_data_only: "5a2ae1dc03d3c425ef0ea752"
+  troubleshooting: "5a79f17d03d3c45080924ed4"
+
+data_dir: "../data/"
+download_participants_dir: "../data/download_participants/"
+raw_data_dir: "../data/raw"
+raw_data_folder: "manual_HOPE_paper2_download"
+curr_raw_data_path: "../data/raw/manual_HOPE_paper2_download/"
+processed_data_dir: "../data/processed/"
+metadata_path: "../data/metadata/HOPE_paper2_demographics_w_study.csv"
+results_dir: "../results/"
+figures_dir: "../figs/"
