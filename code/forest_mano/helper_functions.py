@@ -51,8 +51,8 @@ def tree(dir_path: Path, level: int=-1, limit_to_directories: bool=False,
     if next(iterator, None):
         print(f'... length_limit, {length_limit}, reached, counted:')
     print(f'\n{directories} directories' + (f', {files} files' if files else ''))
-
-
+    return(contents)
+    
 def concatenate_summaries(dir_path: Path, output_filename: str):
     """Concatenate subject-specific GPS- or communication-related summaries
     

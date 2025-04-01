@@ -1,0 +1,3 @@
+# concatenate batch job outputs/errs into one file
+cat err_${JOBID}_*_jas.err > all_${JOBID}_errors.txt
+cat out_${JOBID}_*_jas.out > all_${JOBID}_outputs.txt
