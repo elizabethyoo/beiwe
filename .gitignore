@@ -2,7 +2,7 @@
 *.err
 *.out 
 *_errs.txt
-*_out.txt
+*_outputs.txt
 
 # plots 
 *.png
@@ -10,6 +10,7 @@
 # code and notebook artifacts
 .ipynb_checkpoints/
 __pycache__/
+*_output/
 
 
 # everything in the data directory
