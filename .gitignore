@@ -8,8 +8,8 @@
 *.png
 
 # code and notebook artifacts
-*/.ipynb_checkpoints/
-*/__pycache__/
+.ipynb_checkpoints/
+__pycache__/
 
 
 # everything in the data directory
