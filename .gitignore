@@ -1,5 +1,16 @@
 # slurm outputs
 *.err
 *.out 
+*_errs.txt
+*_out.txt
+
+# plots 
+*.png
+
+# code and notebook artifacts
+*/.ipynb_checkpoints/
+*/__pycache__/
+
+
 # everything in the data directory
 data/*
